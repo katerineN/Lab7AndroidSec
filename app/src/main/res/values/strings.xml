@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab7AndroidSec</string>
+    <string name="steps">%1$s steps</string>
+</resources>
